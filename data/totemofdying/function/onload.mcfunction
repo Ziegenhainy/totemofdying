@@ -1,0 +1,2 @@
+scoreboard objectives add totems_used minecraft.used:minecraft.totem_of_undying
+scoreboard objectives add deaths deathCount
